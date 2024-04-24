@@ -1,0 +1,1 @@
+The current folder includes the behavioral data of all subjects. The eye movement data cannot be uploaded because it is too large. If you need eye movement data, please contact norazyw@zju.edu.cn
